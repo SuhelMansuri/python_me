@@ -1,0 +1,8 @@
+print ('This is example of print function')
+print ("We' re going to store")
+print ('He said "Hi."')
+print ('We\'re going to store')
+print ('Hi','there')
+print ('Hi ',str(5))
+print (int('8')+5)
+print (float('8.5')+5)
