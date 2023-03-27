@@ -1,0 +1,20 @@
+names = 'John,Sara,Ali,Madhu,Tina,Peter'
+lst = names.split(',')
+print(lst)
+str = 'hello world! This is a Python String'
+str_upr = str.upper()
+str_lwr = str.lower()
+print(str_lwr)
+print(str_upr)
+print(str)
+str_ttl = str.title()
+print(str_ttl)
+print(str)
+str_cap = str.capitalize() # Capitalize first character 
+print(str_cap)
+print(str)
+str = str.lower()
+str = str.upper()
+print(str.isupper())
+str = str.lower()
+# print(str.islower())

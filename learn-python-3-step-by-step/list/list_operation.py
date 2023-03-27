@@ -1,0 +1,12 @@
+a_list = [11, 31, 41, 31, 51, 31, 51, 31, 21]
+print(a_list)
+a_list.append(10)
+a_list.append(20)
+print(a_list)
+a_list.insert(1,5)
+print(a_list)
+b = a_list.pop(3)
+print(a_list)
+x = a_list.pop(2)
+a_list.insert(0,x)
+print(a_list)
