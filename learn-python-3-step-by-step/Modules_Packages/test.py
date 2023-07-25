@@ -1,4 +1,7 @@
-from mymodule import *
+from mymodule import Student
+from mymodule import add
+
+# import mymodule
 
 s = Student(1, 'John')
 s.print()
